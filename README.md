@@ -2,18 +2,16 @@
 
 Teaser da confraternização da Supinfra em 12 de dezembro de 2026.
 
-## Nova edição
+## Versão atual — logo corrigida
 
-- [Vídeo V2 — suspense e virada para instrumental inspirado em pagode](divulgacao-2026/GEFAROFA-2026-teaser-v2.mp4?raw=true)
+Logo com a frase **GAPELOUCOS WITH GARDENAL DRINKS** e **2026** no lugar de Ultimate Edition.
 
-Edição vertical de 24 segundos, com fotos em tela cheia, cortes mais rápidos e trilha instrumental sintetizada com violão, baixo e percussão.
+- [Vídeo atualizado (V3)](divulgacao-2026/GEFAROFA-2026-teaser-v3.mp4?raw=true)
+- [Logo corrigida](divulgacao-2026/GEFAROFA-2026-logo-corrigida.png?raw=true)
+- [Kit atualizado](divulgacao-2026/GEFAROFA-2026-kit.zip?raw=true)
 
-## Downloads da primeira versão
+Vídeo vertical de 24 segundos. A trilha é instrumental sintetizada, inspirada em pagode.
 
-- [Vídeo MP4 — 25 segundos, vertical](divulgacao-2026/GEFAROFA-2026-teaser.mp4?raw=true)
-- [Logo 2026 em PNG](divulgacao-2026/GEFAROFA-2026-logo.png?raw=true)
-- [Kit completo em ZIP](divulgacao-2026/GEFAROFA-2026-kit.zip?raw=true)
+Se abrir a página do arquivo, use **Download raw file** (ícone de download).
 
-Se o GitHub abrir a página do arquivo, use **Download raw file** (ícone de download).
-
-A trilha do vídeo é instrumental original sintetizada, inspirada em pagode.
+As versões V1 e V2 são anteriores à correção da logo; use V3.

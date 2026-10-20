@@ -2,7 +2,14 @@
 
 Teaser da confraternização da Supinfra em 12 de dezembro de 2026.
 
-## Prévia visual V4 — logo pulsante
+## Versão atual V5 — Cheia de Manias
+
+- [Baixar vídeo V5 com a música fornecida](divulgacao-2026/GEFAROFA-2026-Cheia-de-Manias-v5.mp4?raw=true)
+- [Baixar kit atualizado](divulgacao-2026/GEFAROFA-2026-kit.zip?raw=true)
+
+Vídeo de 24,56 segundos. O início de Cheia de Manias (Raça Negra com Thiaguinho), enviado pelo usuário, acompanha a logo desde o primeiro quadro. Pulsação ajustada às entradas da faixa e revelação do espaço aos 6,56 segundos. Substitui as batidas artificiais.
+
+## Prévia anterior V4 — logo pulsante
 
 - [Assistir/baixar a prévia visual V4](divulgacao-2026/GEFAROFA-2026-previa-visual-v4.mp4?raw=true)
 

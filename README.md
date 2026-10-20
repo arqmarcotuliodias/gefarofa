@@ -2,7 +2,13 @@
 
 Teaser da confraternização da Supinfra em 12 de dezembro de 2026.
 
-## Downloads
+## Nova edição
+
+- [Vídeo V2 — suspense e virada para instrumental inspirado em pagode](divulgacao-2026/GEFAROFA-2026-teaser-v2.mp4?raw=true)
+
+Edição vertical de 24 segundos, com fotos em tela cheia, cortes mais rápidos e trilha instrumental sintetizada com violão, baixo e percussão.
+
+## Downloads da primeira versão
 
 - [Vídeo MP4 — 25 segundos, vertical](divulgacao-2026/GEFAROFA-2026-teaser.mp4?raw=true)
 - [Logo 2026 em PNG](divulgacao-2026/GEFAROFA-2026-logo.png?raw=true)
